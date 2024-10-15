@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @NovichonokMikhail
+- 👀 I’m interested in Computer Science and VideoGames
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Java or Python projects
+- 📫 How to reach me mo.novichonok@gmail.com
+- ⚡ Fun fact: Live in Canada
